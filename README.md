@@ -172,7 +172,7 @@ You can style the plugin using the following CSS classes:
 
 ## Screenshots
 
-### Backend Configuration
+### Backend Configurations
 ![Backend Settings Panel](/public/backend-settings.png)
 <img src="/public/Backend-setting.png" alt="backend-setting" width="800"/>
 <img src="https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/grid-loadmore.png" alt="backend-setting" width="800"/>
