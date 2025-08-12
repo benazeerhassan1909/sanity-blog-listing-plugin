@@ -175,6 +175,8 @@ You can style the plugin using the following CSS classes:
 ### Backend Configuration
 ![Backend Settings Panel](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/backend-settings.png)
 
+![Backend Settings Panel](assets/backend-settings.png)
+
 ![Additional Backend Settings](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/Backend-setting.png)
 
 ### Frontend Display Options
