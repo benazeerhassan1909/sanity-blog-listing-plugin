@@ -170,6 +170,8 @@ You can style the plugin using the following CSS classes:
 - `load-more-btn`
 - `pagination-btn`
 
+<img src="https://cdn.sanity.io/images/tetdgu3p/production/545ab4f08c3a4278eaaa8aec16d13042b4458cfc-1968x837.png" alt="Grid Layout with Load More Button" width="800"/>
+
 ## Screenshots
 
 ### Backend Configuration
