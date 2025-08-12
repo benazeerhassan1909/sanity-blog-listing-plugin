@@ -184,7 +184,7 @@ You can style the plugin using the following CSS classes:
 
 ### Frontend Display Options
 #### Grid Layouts
-![Grid Layout with Load More Button](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/grid-loadmore.png)
+![Grid Layout with Load More Button](https://cdn.sanity.io/images/tetdgu3p/production/545ab4f08c3a4278eaaa8aec16d13042b4458cfc-1968x837.png)
 
 ![Grid Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/grid-pagination.png)
 
