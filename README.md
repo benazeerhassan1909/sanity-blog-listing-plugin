@@ -2,7 +2,7 @@
 
 Powerful blog listing for Sanity Studio v3 with an optional ready-made React (Next.js) client component. Posts, categories, and authors in Studio and render them in your site with grid/list layout, sorting, filtering, pagination, and more.
 
-![Backend Settings Panel](assets/backend-settings.png)
+![Backend Settings Panel](/Backend-setting.png)
 
 ## Features
 
