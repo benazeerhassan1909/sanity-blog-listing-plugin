@@ -170,17 +170,10 @@ You can style the plugin using the following CSS classes:
 - `load-more-btn`
 - `pagination-btn`
 
-<img src="https://cdn.sanity.io/images/tetdgu3p/production/545ab4f08c3a4278eaaa8aec16d13042b4458cfc-1968x837.png" alt="Grid Layout with Load More Button" width="800"/>
-
 ## Screenshots
 
 ### Backend Configuration
 ![Backend Settings Panel](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/backend-settings.png)
-
-![Backend Settings Panel](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/assets/backend-settings.png) 
-
-<p><img src="https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/assets/backend-settings.png" alt="Backend Settings Panel" width="800"/></p>
-
 
 ![Additional Backend Settings](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/Backend-setting.png)
 
