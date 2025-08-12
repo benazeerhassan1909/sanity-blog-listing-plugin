@@ -2,8 +2,6 @@
 
 Powerful blog listing for Sanity Studio v3 with an optional ready-made React (Next.js) client component. Posts, categories, and authors in Studio and render them in your site with grid/list layout, sorting, filtering, pagination, and more.
 
-![Backend Settings Panel](/Backend-setting.png)
-
 ## Features
 
 - **Configurable listing**:
@@ -39,7 +37,6 @@ Powerful blog listing for Sanity Studio v3 with an optional ready-made React (Ne
   - `mdPostCategory`: Category document schema with title, slug and description
   - `mdPostAuthor`: Author document schema with name, slug, profile image and biography
   - `mdPostListing`: Configurable object schema for customizing how posts are displayed
-
 
 ## Installation
 
@@ -145,7 +142,9 @@ export default async function Page({ params }: RouteProps) {
   )
 }
 ```
+
 Sample page query:
+
 ```ts
 const PAGE_QUERY = defineQuery(`*[_type == "page" && slug.current == $slug][0]{
   ...,
@@ -175,22 +174,21 @@ You can style the plugin using the following CSS classes:
 ## Screenshots
 
 ### Backend Configuration
-![Backend Settings Panel](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/backend-settings.png)
+![Backend Settings Panel](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/backend-settings.png)  
 
-![Additional Backend Settings](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/Backend-setting.png)
-
-
+![Additional Backend Settings](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/Backend-setting.png)  
 
 ### Frontend Display Options
-#### Grid Layouts
-![Grid Layout with Load More Button](https://cdn.sanity.io/images/tetdgu3p/production/545ab4f08c3a4278eaaa8aec16d13042b4458cfc-1968x837.png)
 
-![Grid Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/grid-pagination.png)
+#### Grid Layouts
+![Grid Layout with Load More Button](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/grid-loadmore.png)  
+
+![Grid Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/grid-pagination.png)  
 
 #### List Layouts
-![List Layout with Load More Button](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/list-loadmore.png)
+![List Layout with Load More Button](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/list-loadmore.png)  
 
-![List Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/list-pagination.png)
+![List Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/list-pagination.png)  
 
 ## Troubleshooting
 
@@ -200,7 +198,6 @@ You can style the plugin using the following CSS classes:
 
 - **No posts found**
   - Create some `mdPost` documents and assign categories/authors as needed.
-
 
 ## Exports
 
