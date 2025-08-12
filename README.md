@@ -173,17 +173,17 @@ You can style the plugin using the following CSS classes:
 ## Screenshots
 
 ### Backend Configuration
-![Backend Settings](public/backend-settings.png)
-![Backend Settings](public/Backend-setting.png)
+![Backend Settings](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/backend-settings.png)
+![Backend Settings](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/Backend-setting.png)
 
 ### Frontend Display Options
 #### Grid Layout
-![Grid Layout with Load More](public/grid-loadmore.png)
-![Grid Layout with Pagination](public/grid-pagination.png)
+![Grid Layout with Load More](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/grid-loadmore.png)
+![Grid Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/grid-pagination.png)
 
 #### List Layout
-![List Layout with Load More](public/list-loadmore.png)
-![List Layout with Pagination](public/list-pagination.png)
+![List Layout with Load More](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/list-loadmore.png)
+![List Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/main/public/list-pagination.png)
 
 ## Troubleshooting
 
