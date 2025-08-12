@@ -159,17 +159,17 @@ Environment variables required:
 
 ## Plugin Settings and frontend screenshots
 
-![Backend Settings Panel](https://share.cleanshot.com/fNLW59VtVKzTf3Fys960)
+Backend Settings Panel: https://share.cleanshot.com/fNLW59VtVKzTf3Fys960
 
-![Additional Backend Settings](https://share.cleanshot.com/K1s98B9klCFJrhMPRQLl)
+Additional Backend Settings: https://share.cleanshot.com/K1s98B9klCFJrhMPRQLl
 
-![Grid Layout with Load More Button](https://share.cleanshot.com/gVgdhJXhdvSGMNtyr2t4)
+Grid Layout with Load More Button: https://share.cleanshot.com/gVgdhJXhdvSGMNtyr2t4
 
-![Grid Layout with Pagination](https://share.cleanshot.com/RMh0BmF1R6YHM0GMPlns)
+Grid Layout with Pagination: https://share.cleanshot.com/RMh0BmF1R6YHM0GMPlns
 
-![List Layout with Load More Button](https://share.cleanshot.com/P8j9N6xlSKXLH9XK6PhF)
+List Layout with Load More Button: https://share.cleanshot.com/P8j9N6xlSKXLH9XK6PhF
 
-![List Layout with Pagination](https://share.cleanshot.com/K1s98B9klCFJrhMPRQLl)
+List Layout with Pagination: https://share.cleanshot.com/K1s98B9klCFJrhMPRQLl
 
 
 ## Styling
