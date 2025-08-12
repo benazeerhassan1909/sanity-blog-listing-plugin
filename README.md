@@ -175,18 +175,18 @@ You can style the plugin using the following CSS classes:
 ### Backend Configuration
 ![Backend Settings Panel](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/refs/heads/main/public/backend-settings.png)
 
-![Additional Backend Settings](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/refs/heads/main/public/Backend-setting.png)
+![Additional Backend Settings](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/assets/Backend-setting.png)
 
 ### Frontend Display Options
 #### Grid Layouts
-![Grid Layout with Load More Button](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/refs/heads/main/public/grid-loadmore.png)
+![Grid Layout with Load More Button](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/assets/grid-loadmore.png)
 
-![Grid Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/refs/heads/main/public/grid-pagination.png)
+![Grid Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/assets/grid-pagination.png)
 
 #### List Layouts
-![List Layout with Load More Button](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/refs/heads/main/public/list-loadmore.png)
+![List Layout with Load More Button](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/assets/list-loadmore.png)
 
-![List Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/refs/heads/main/public/list-pagination.png)
+![List Layout with Pagination](https://raw.githubusercontent.com/benazeerhassan1909/sanity-blog-listing-plugin/assets/list-pagination.png)
 
 ## Troubleshooting
 
